@@ -1,1 +1,0 @@
-# object-oriented-programming-exam1
