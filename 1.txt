@@ -1,0 +1,4 @@
+Client Jade, having an income of 6000.000000 and a total income of: 6000.000000
+Client Josh, having an income of 1500.240000 and a total income of: 1500.240000
+Client MicroFocus, having an income of 99100.660000 and a total income of: 155800.660000 (this is a company that has investments of: 56700.000000)
+Client Evozon, having an income of 4100.660000 and a total income of: 5800.660000 (this is a company that has investments of: 1700.000000)
